@@ -2,7 +2,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrewsyd17&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andrewsyd17&theme=dark&locale=de" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsyd17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
