@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrewsyd17&theme=dark&locale=de)](https://git.io/streak-stats)
+
 <!--
 **andrewsyd17/andrewsyd17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrewsyd17)](https://git.io/streak-stats)
+
+
+
